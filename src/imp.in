@@ -1,0 +1,10 @@
+export PATH="/Users/akshay/Desktop/openmpi/bin:$PATH"
+export LD_LIBRARY_PATH="/Users/akshay/Desktop/openmpi/lib/:$LD_LIBRARY_PATH"
+
+
+
+
+
+
+export PATH="/Users/akshay/Desktop/hdf5/bin:$PATH"
+export LD_LIBRARY_PATH="/Users/akshay/Desktop/hdf5/lib/:$LD_LIBRARY_PATH"
