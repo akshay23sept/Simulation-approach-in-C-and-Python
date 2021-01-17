@@ -8,11 +8,11 @@
 <p>A general purpose <em>Lattice-Boltzmann</em> code for fluid-dynamics simulations. The code includes :</p>
 ├── <strong>fluid dynamics</strong> with several volume forcing terms for
 │&nbsp;&nbsp; ├──<code>channel flow</code> 
-│&nbsp;&nbsp; ├──<code>homogeneous Isotropic Turbulence (HIT)
+│&nbsp;&nbsp; ├──<code>homogeneous isotropic turbulence (HIT)
 │&nbsp;&nbsp; ├──<code>buoyancy)</code>
 ├── <strong>temperature dynamics</strong> 
-│&nbsp;&nbsp; ├──<code>advection/code> 
-│&nbsp;&nbsp; ├──<code>diffusion
+│&nbsp;&nbsp; ├──<code>advection</code> 
+│&nbsp;&nbsp; ├──<code>diffusion</code>
 │&nbsp;&nbsp; ├──<code>sink/source or reaction terms)</code>
 ├── <strong>phase change</strong> 
 │&nbsp;&nbsp; ├──<code>enthalpy formulation for solid/liquid systems/code> 
