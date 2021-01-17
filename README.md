@@ -6,7 +6,6 @@
 <div><pre><span>.</span>
 
 <p>A general purpose <em>Lattice-Boltzmann</em> code for fluid-dynamics simulations. The code includes :</p>
-
 ├── <strong>fluid dynamics</strong> with several volume forcing terms for
 │&nbsp;&nbsp; ├──<code>channel flow</code> 
 │&nbsp;&nbsp; ├──<code>homogeneous Isotropic Turbulence (HIT)
