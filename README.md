@@ -15,10 +15,10 @@
 │&nbsp;&nbsp; ├──<code>diffusion</code>
 │&nbsp;&nbsp; ├──<code>sink/source or reaction terms)</code>
 ├── <strong>phase change</strong> 
-│&nbsp;&nbsp; ├──<code>enthalpy formulation for solid/liquid systems/code> 
-├── <strong>scalar transport/strong> 
+│&nbsp;&nbsp; ├──<code>enthalpy formulation for solid/liquid systems</code> 
+├── <strong>scalar transport</strong> 
 │&nbsp;&nbsp; ├──<code>same functionalities as temperature</code> 
-├── <strong>lagrangian dynamics/strong> 
+├── <strong>lagrangian dynamics</strong> 
 │&nbsp;&nbsp; ├──<code>tracers</code> 
 │&nbsp;&nbsp; ├──<code>non-shperical Jeffery rotation</code> 
 │&nbsp;&nbsp; ├──<code>gyrotaxies</code> 
