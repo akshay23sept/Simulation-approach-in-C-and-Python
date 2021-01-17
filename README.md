@@ -17,15 +17,15 @@
 ├── <strong>phase change</strong> 
 │&nbsp;&nbsp; ├──<code>enthalpy formulation for solid/liquid systems/code> 
 ├── <strong>scalar transport/strong> 
-│&nbsp;&nbsp; ├──<code>same functionalities as temperature/code> 
+│&nbsp;&nbsp; ├──<code>same functionalities as temperature</code> 
 ├── <strong>lagrangian dynamics/strong> 
-│&nbsp;&nbsp; ├──<code>tracers/code> 
-│&nbsp;&nbsp; ├──<code>non-shperical Jeffery rotation/code> 
-│&nbsp;&nbsp; ├──<code>gyrotaxies/code> 
-│&nbsp;&nbsp; ├──<code>heavy/light &amp; active  point-like particles/code> 
-├── <strong><code>Large Eddy Simulation (LES)</code>/strong> 
-│&nbsp;&nbsp; ├──<code>Smagorinsky/code> 
-│&nbsp;&nbsp; ├──<code>shear improved Samgorinsky with Kalman filter/code> 
+│&nbsp;&nbsp; ├──<code>tracers</code> 
+│&nbsp;&nbsp; ├──<code>non-shperical Jeffery rotation</code> 
+│&nbsp;&nbsp; ├──<code>gyrotaxies</code> 
+│&nbsp;&nbsp; ├──<code>heavy/light &amp; active  point-like particles</code> 
+├── <strong><code>Large Eddy Simulation (LES)</code></strong> 
+│&nbsp;&nbsp; ├──<code>Smagorinsky</code> 
+│&nbsp;&nbsp; ├──<code>shear improved Samgorinsky with Kalman filter</code> 
 
 
 
