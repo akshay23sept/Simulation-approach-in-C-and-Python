@@ -27,26 +27,5 @@
 │&nbsp;&nbsp; ├──<code>Smagorinsky</code> 
 │&nbsp;&nbsp; ├──<code>shear improved Samgorinsky with Kalman filter</code> 
 
-
-
-
-
-
-
-
-
-
-
-
-<p>A general purpose <em>Lattice-Boltzmann</em> code for fluid-dynamics simulations. It includes :</p>
-<ul>
-<li><strong>fluid dynamics</strong>  (with several volume forcing terms for <code>Channel flow</code>, <code>Homogeneous Isotropic Turbulence (HIT)</code>, <code>buoyancy)</code></li>
-<li><strong>temperature dynamics</strong> (advection, diffusion , sink/source or reaction terms)</li>
-<li><strong>phase change</strong> (enthalpy formulation for solid/liquid systems)</li>
-<li><strong>scalar transport</strong> (same functionalities as temperature)</li>
-<li><strong>lagrangian dynamics</strong> (tracers, heavy/light &amp; active  point-like particles; non-shperical Jeffery rotation, gyrotaxis)</li>
-<li><strong>large eddy simulation</strong> (Smagorinsky, Shear Improved Samgorinsky with Kalman Filter)</li>
-</ul>
-
 This repo contains general pupose Lattice Boltzmann code and has been in implemented in the research performed by me entitled Dynamics of diatoms in turbulent flow.
 In this research we focused on diatoms which are unicellular microorganism deprived of swimming capabilities. We model diatoms as non spherical particles elongated and thin, modeled as a particle undergoing the effect of drag. These particles were placed in a homogeneous and isotropic turbulent flow (direct numerical simulation, DNS), in which a passive scalar was also simulated. The passive scalar fields represented the nutritive salt necessary for the growth of diatoms. Numerical simulation targeted to consider the rate of the encounter between planktonic organism and nutrients, under the effect of turbulence. We also studied the influence of the nonspherical shape of the particle on the encounter rate.
