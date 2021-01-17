@@ -38,7 +38,7 @@ Feel free to raise an issue at <a href="https://github.com/akshay23sept/Simulati
 </ol>
 </h1>
 <p align="center"> A temporary email right from your terminal written in POSIX sh</p><br>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/sdushantha/tmpmail/blob/master/images/demo.gif"><img src="./bc_files/demo.gif" align="right" style="max-width:100%;"></a> <code>tmpmail</code> is a command line utility written in POSIX <code>sh</code> that allows you to create a temporary email address
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Simulation-approach-in-C-and-Python/blob/master/images/active_particles.gif"><img src="https://github.com/akshay23sept/Simulation-approach-in-C-and-Python/blob/master/images/active_particles.gif" align="right" style="max-width:100%;"></a> <code>tmpmail</code> is a command line utility written in POSIX <code>sh</code> that allows you to create a temporary email address
 and receive emails to the temporary email address. It uses 1secmail's <a href="https://www.1secmail.com/api/" rel="nofollow">API</a>
 to receive emails.</p>
 This repo contains general pupose Lattice Boltzmann code and has been in implemented in the research performed by me entitled Dynamics of diatoms in turbulent flow.
