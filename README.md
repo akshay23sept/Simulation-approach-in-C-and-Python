@@ -37,7 +37,6 @@
 Feel free to raise an issue at <a href="https://github.com/akshay23sept/Simulation-approach-in-C-and  Python">https://github.com/akshay23sept/Simulation-approach-in-C-and-Python</a>
 </ol>
 </h1>
-<p align="center"> DNS study to analyze dynamics of diatoms in turbulent flows</p><br>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Simulation-approach-in-C-and-Python/blob/master/images/active_particles.gif"><img src="https://github.com/akshay23sept/Simulation-approach-in-C-and-Python/blob/master/images/active_particles.gif" align="right" style="max-width:50%;"></a> <code>tmpmail</code> </p>
-This repo contains general pupose Lattice Boltzmann code and has been in implemented in the research performed by me entitled Dynamics of diatoms in turbulent flow.
-In this research we focused on diatoms which are unicellular microorganism deprived of swimming capabilities. We model diatoms as non spherical particles elongated and thin, modeled as a particle undergoing the effect of drag. These particles were placed in a homogeneous and isotropic turbulent flow (direct numerical simulation, DNS), in which a passive scalar was also simulated. The passive scalar fields represented the nutritive salt necessary for the growth of diatoms. Numerical simulation targeted to consider the rate of the encounter between planktonic organism and nutrients, under the effect of turbulence. We also studied the influence of the nonspherical shape of the particle on the encounter rate.
+<p align="center"> DNS approach to analyze dynamics of diatoms in turbulent flows</p><br>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/akshay23sept/Simulation-approach-in-C-and-Python/blob/master/images/active_particles.gif"><img src="https://github.com/akshay23sept/Simulation-approach-in-C-and-Python/blob/master/images/active_particles.gif" align="right" style="max-width:10%;"></a> </p>
+
